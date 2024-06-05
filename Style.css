@@ -366,6 +366,14 @@ span {
     max-height: 100px;
     margin: auto;
 }
+
+.Experience-info ul li{
+    font-size: 1.3rem;
+    font-weight: 400;
+    max-height: 100px;
+    margin: auto;
+    text-align: justify;
+}
 /* Experience Box */
 .Experience-container{
     display: grid;
